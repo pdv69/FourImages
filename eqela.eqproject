@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 2DSprite
+#
+
+projectname: 2DSprite
+vendorid: com.2DSprite
+mainmodule: com.2DSprite.2dsprite
